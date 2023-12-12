@@ -4,25 +4,25 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I am familiar with and comfortable working with HTML, CSS, React, Javascript and have knowledge in Python as well as some backend languages such as Django."
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "SEO/SEM",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Keyword Optimization, Data Analysis, Social Media Efficiency, Link Building Strategy, Technical SEO, Media Planning, Editing Skills & Content Optimization."
       },
       {
         "id": "3",
         "src": "./img/feather-pen-2.png",
         "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "User Interface Design, Interaction Design, Information Architecture, Visual Communication, Problem Solving, Compelling Writer, Usability Testing"
       },
       {
         "id": "4",
         "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Digital Marketing Strategy",
+        "description": "Content Marketing, Social Media Strategy, SEO, Analystics, Web Design, Email Marketing, Problem Solving, Marketing Automation & Content Creation. "
       }
     ],
     "portfolio": [
@@ -30,21 +30,21 @@
         "id": "1",
         "src": "./img/placeholder-image.png",
         "title": "Online Storefront",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "description": "Simple online storefront I created for an online retailer. They wanted a simple and clean design. It was created using React JS",
         "link": "View In Github"
       },
       {
         "id": "2",
         "src": "./img/placeholder-image-1.png",
         "title": "Pet Salon Website",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "description": "Simple website I designed for a small pet salon. It was created with HTML, CSS and Javascript. The design is bright and simple.",
         "link": "View In Github"
       },
       {
         "id": "3",
         "src": "./img/placeholder-image-2.png",
         "title": "Real Estate Website",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "description": "Real Estate website I created using React JS. The design is clean and sophisticated and has been fully optimized for SEO and SEM.",
         "link": "View In Github"
       }
     ],
@@ -53,25 +53,25 @@
         "id": "1",
         "count": "5",
         "src": "./img/avatar-image.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Michael Russel",
+        "description": "Dorothy was amazing to work with. She communicated cleary through the whole process and really made an effort to understand exactly what we wanted. She worked thourougly, but succintly. I will definitely be using her again.",
+        "author_name": "Tasha Michaels",
         "author_designation": "Starbucks"
       },
       {
         "id": "2",
         "count": "5",
         "src": "./img/avatar-image-1.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Matt Rife",
+        "description": "Dorothy is truly an amazing designer. Her communication throughout the whole process was impeccable. She went above and beyond our expectations and returned an amazing product. My company will be using her again,",
+        "author_name": "Michelle Bruce",
         "author_designation": "Louis Vuitton"
       },
       {
         "id": "3",
         "count": "5",
         "src": "./img/avatar-image-2.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "description": "Dorothy was great to work with. I appreciated her communication throught the whole process to ensure she got exactly what we needed. She had amazing ideas to help us optimize our site for SEO and better our user experience. ",
         "author_name": "Ryan Smith",
-        "author_designation": "InstCart"
+        "author_designation": "InstaCart"
       }
     ]
   }

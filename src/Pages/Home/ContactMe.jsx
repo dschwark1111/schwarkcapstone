@@ -1,14 +1,31 @@
+import React, { useRef } from 'react';
+import emailjs from '@emailjs/browser';
+
 export default function ContactMe() {
+const form = useRef();
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_45gl1wr', 'template_2yjt93s', form.current, 'PM5NKxPMhzPv4KWGR')
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+      e.target.reset()
+  };
+    
+
     return (
       <section id="Contact" className="contact--section">
         <div>
           <p className="sub--title">Get In Touch</p>
           <h2>Contact Me</h2>
           <p className="text-lg">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
+            I can't wait to work with you!
           </p>
         </div>
-        <form className="contact--form--container">
+        <form ref={form} onSubmit={sendEmail} className="contact--form--container">
           <div className="container">
             <label htmlFor="first-name" className="contact--label">
               <span className="text-md">First Name</span>
@@ -79,5 +96,5 @@ export default function ContactMe() {
         </form>
       </section>
     );
-  }
+    }
   

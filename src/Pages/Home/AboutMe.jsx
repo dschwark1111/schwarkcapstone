@@ -9,15 +9,10 @@ export default function AboutMe() {
             <p className="section--title">About</p>
             <h1 className="skills-section--heading">About Me</h1>
             <p className="home--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-              tempora numquam sint odit optio.
+              Hey there! Welcome to my corner of the internet. A little about me: I am an Air Force veteran turned military spouse, mama to two little boys, I am obssesed with chickens and homesteading and I love UX/UI design. My love started after I took a coding bootcamp and ever since then I have not stopped learning and growing. 
             </p>
             <p className="home--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae?
+              In addition to UX/UI, I have a long history in digital marketing and growing multiple six figure businesses. My business background coupled with my UX/UI skills make me an asset to your company. I have the ability to create an amazing customer experience while maximizing your digital marketing efforts. 
             </p>
           </div>
         </div>
