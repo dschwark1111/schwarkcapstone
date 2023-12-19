@@ -23,7 +23,7 @@ export default function HomeSection() {
                 <br />
                 <br />
                 
-                <a href="mailto:dorothy.schwark@gmail.com" >
+                <a href="https://www.linkedin.com/in/dorothy-schwark/" >
                     
                 <button className="btn btn-primary">Let's Connect!</button>
                 </a>
